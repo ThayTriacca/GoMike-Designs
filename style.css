@@ -679,12 +679,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
@@ -709,22 +709,22 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/compressedimg/dots-bg_11zon.png");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/compressedimg/lines-h2-bg_11zon.png");
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.jpg");
+    background-image: url("img/compressedimg/atlanta\ made\ sign-min.jpg");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.jpg");
+    background-image: url("img/compressedimg/atlanta\ made\ sign\ orange-min.jpg");
 }
 
-@media (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
         padding-right: 20px;

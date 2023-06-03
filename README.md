@@ -15,8 +15,8 @@ The Website Optimization project focused on improving the website's SEO, perform
 
 ## Project Scope
 
--Conducting a comprehensive SEO audit to increase visibility in search engine results, with a specific focus on the search term "freelance web designer Atlanta."
--Analyzing the website's speed and performance using Google's Lighthouse tool to identify areas for improvement.
--Ensuring website accessibility by adhering to a mobile accessibility checklist based on widely-recognized standards.
--Documenting optimization recommendations to provide a clear understanding of the implemented changes.
--Providing guidance and a walkthrough of the optimization process to the client for future maintenance and improvement.
+- Conducting a comprehensive SEO audit to increase visibility in search engine results, with a specific focus on the search term "freelance web designer Atlanta."
+- Analyzing the website's speed and performance using Google's Lighthouse tool to identify areas for improvement.
+- Ensuring website accessibility by adhering to a mobile accessibility checklist based on widely-recognized standards.
+- Documenting optimization recommendations to provide a clear understanding of the implemented changes.
+- Providing guidance and a walkthrough of the optimization process to the client for future maintenance and improvement.
